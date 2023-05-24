@@ -1,4 +1,3 @@
-import "./components/largeHeader/Large.Header";
 import LargeHeader from "./components/largeHeader/Large.Header";
 import "./App.style.css";
 
