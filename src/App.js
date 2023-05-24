@@ -1,4 +1,3 @@
-import LargeHeader from "./components/largeHeader/Large.Header";
 import "./App.style.css";
 
 function App() {
